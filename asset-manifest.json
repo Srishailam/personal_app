@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal_app/static/css/main.f1d67d66.chunk.css",
+    "main.js": "/personal_app/static/js/main.b752a081.chunk.js",
+    "main.js.map": "/personal_app/static/js/main.b752a081.chunk.js.map",
+    "runtime-main.js": "/personal_app/static/js/runtime-main.ea44a6e5.js",
+    "runtime-main.js.map": "/personal_app/static/js/runtime-main.ea44a6e5.js.map",
+    "static/js/2.ff53a2e1.chunk.js": "/personal_app/static/js/2.ff53a2e1.chunk.js",
+    "static/js/2.ff53a2e1.chunk.js.map": "/personal_app/static/js/2.ff53a2e1.chunk.js.map",
+    "index.html": "/personal_app/index.html",
+    "precache-manifest.2818a250e9928f6f61c7e32da2a38b6a.js": "/personal_app/precache-manifest.2818a250e9928f6f61c7e32da2a38b6a.js",
+    "service-worker.js": "/personal_app/service-worker.js",
+    "static/css/main.f1d67d66.chunk.css.map": "/personal_app/static/css/main.f1d67d66.chunk.css.map",
+    "static/js/2.ff53a2e1.chunk.js.LICENSE.txt": "/personal_app/static/js/2.ff53a2e1.chunk.js.LICENSE.txt",
+    "static/media/Main.scss": "/personal_app/static/media/sri.ec35b045.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea44a6e5.js",
+    "static/js/2.ff53a2e1.chunk.js",
+    "static/css/main.f1d67d66.chunk.css",
+    "static/js/main.b752a081.chunk.js"
+  ]
+}
