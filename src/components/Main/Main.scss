@@ -1,0 +1,16 @@
+.Main {
+	border: 1px solid green;
+	padding-bottom: 2.5rem;
+	min-height: 100vh;
+	&__container {
+		padding: 30px;
+	}
+}
+
+.MyImage {
+	background-image: url('../../assets/sri.JPG');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	min-height: 100vh;
+}
